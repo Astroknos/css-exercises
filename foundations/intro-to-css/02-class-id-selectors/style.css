@@ -1,0 +1,19 @@
+.basic-text {
+    background-color: #FA2A55;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.basic-text.cooler-text {
+    font-size: 24px;
+}
+
+#element-2 {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#element-4 {
+    background-color: hsl(113, 100%, 50%);
+    font-size: 24px;
+    font-weight: bold;
+}

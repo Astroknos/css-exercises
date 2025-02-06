@@ -1,0 +1,14 @@
+.chocolate,
+.strawberry {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
+
+.chocolate {
+    background-color: black;
+    color: white;
+}
+
+.strawberry {
+    background-color: hsl(51, 100%, 55%);
+}
